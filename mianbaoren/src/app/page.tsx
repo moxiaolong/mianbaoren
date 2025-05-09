@@ -1,5 +1,4 @@
 import Image from "next/image";
-import bg from "@/img/mianbaoren.png"
 export default function Home() {
     return (
         <div
@@ -7,7 +6,7 @@ export default function Home() {
 
             <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
                 <div>mianbao.ren 一车面包人</div>
-                <Image width={200} src={bg} alt={"一车面包人"}></Image>
+                <img className="w-36" src={"/mianbaoren.png"} alt={"一车面包人"}></img>
 
                 <a className="link" href={"https://soulstation.club"}>SoulStation 荣格八维测试</a>
                 <a className="link" href={"https://www.jungus.cn/"}>荣格斯 荣格八维测试</a>
