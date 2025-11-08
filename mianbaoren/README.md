@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MBTI荣格八维资源汇总
 
-## Getting Started
+## 网页版
+[https://mianbao.ren](https://mianbao.ren)
 
-First, run the development server:
+## 推荐网站
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 1. SoulStation 荣格八维测试
+- **网址**: [https://soulstation.club](https://soulstation.club)
+- **评分**: ★★★★★ (5/5)
+- **特点**: 排序法的免费荣格八维测试，型式新颖。虽然只有70道题，但其实是为了降低理解成本进行了场景融合，可以看作是280个题。内容说人话，不故弄玄虚，报告详细免费。体验优秀，可以登录保存结果，也可以免登录查看结果，推荐。
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Pdb类型数据库(非测试)
+- **网址**: [https://www.personality-database.com/](https://www.personality-database.com/)
+- **评分**: ★★★★★ (5/5)
+- **特点**: Personality Database人格类型数据库，包含大量历史人物、现世人物、虚拟角色，甚至是概念的MBTI和九型类型数据，数据由用户投票得出，投票需说明缘由，可信度较高。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 3. Totypes 荣格八维测试
+- **网址**: [https://totypes.com/xinggeceshi.php](https://totypes.com/xinggeceshi.php)
+- **评分**: ★★★★☆ (4/5)
+- **特点**: 专业度较高的荣格八维测试。题目略显晦涩，是两功能迫选，可能会碰到两者皆否但无法表达的情况。测试和初步报告免费，深度报告收费。需要登录才能测试。
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 4. 荣格斯 荣格心里测试
+- **网址**: [https://www.jungus.cn/](https://www.jungus.cn/)
+- **评分**: ★★★☆☆ (3/5)
+- **特点**: 荣格八维圈传播最广的测试，但其实和荣格八维理论有较大出入，题目较老，疑似暂停维护，比起类型论更像是特质论。
 
-## Learn More
+### 5. 才储 荣格认知功能测试
+- **网址**: [https://www.apesk.com/jungtest/](https://www.apesk.com/jungtest/)
+- **评分**: ★★☆☆☆ (2/5)
+- **特点**: 才储主要面向企业，对免费测试不太上心，出的较早，但认可度一般。
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 6. 16personalities NERIS测试
+- **网址**: [https://www.16personalities.com/](https://www.16personalities.com/)
+- **评分**: ★★☆☆☆ (2/5)
+- **特点**: 传播非常广泛，小人形象深入人心。经常被误认为是MBTI官网，但题目和解析都是特质论，披着MBTI字母的外衣，但却是大五人格。
