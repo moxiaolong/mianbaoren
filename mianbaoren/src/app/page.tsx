@@ -82,7 +82,7 @@ export default function Home() {
                         mianbao.ren
                     </h2>
                     <h1 className="text-3xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600 dark:from-indigo-400 dark:to-purple-400 mb-3 tracking-tight">
-                        面包人导航
+                        面包人MBTI导航
                     </h1>
 
                     <p className="text-gray-600 dark:text-gray-300 text-lg">
