@@ -11,14 +11,9 @@
 - **特点**: 排序法的免费荣格八维测试，型式新颖，题目也很新。虽然只有70道题，但有280个选项。题目通俗易懂，题目场景是根据非理性场景到理性场景排的，可以避免过早的进入理性状态远离对潜意识的考察，推荐。
 - 
 ### MoonType 荣格八维测试
-- **网址**: [https://soulstation.club](https://soulstation.club)
+- **网址**: [https://moontype.fun/](https://moontype.fun/)
 - **评分**: ★★★★☆ (4/5)
 - **特点**: MoonType是个人作者制作的小网站，作者对荣格功能的理解很好，题目比Totypes更准确。免费，200题，五度选择，一些难以考察的功能相关的问题会略显重复。
-
-### Pdb类型数据库(非测试)
-- **网址**: [https://www.personality-database.com/](https://www.personality-database.com/)
-- **评分**: ★★★★☆ (4/5)
-- **特点**: Personality Database人格类型数据库，包含大量历史人物、现世人物、虚拟角色，甚至是概念的MBTI和九型类型数据，数据由用户投票得出，投票需说明缘由，可信度较高。
 
 ### Totypes 荣格八维测试
 - **网址**: [https://totypes.com/xinggeceshi.php](https://totypes.com/xinggeceshi.php)

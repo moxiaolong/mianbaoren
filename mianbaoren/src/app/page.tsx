@@ -44,12 +44,6 @@ export default function Home() {
             rating: 4,
             desc: "MoonType的作者对荣格功能的理解很好，对功能的理解比Totypes更贴近原著。免费，200题，五度选择，一些难以考察的功能相关的问题会略显重复。"
         },
-        {
-            title: "Pdb类型数据库(非测试)",
-            url: "https://www.personality-database.com/",
-            rating: 4,
-            desc: "Personality Database人格类型数据库，包含大量历史人物、现世人物、虚拟角色，甚至是概念的MBTI和九型类型数据，数据由用户投票得出，投票需说明缘由，可信度较高。"
-        },
 
         {
             title: "Totypes 荣格八维测试",
