@@ -80,7 +80,7 @@ export default function Home() {
                 {/* 标题部分 */}
                 <div className="text-center mb-10">
                     <h2 className="text-lg md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600 dark:from-indigo-400 dark:to-purple-400 mb-3 tracking-tight">
-                        mianbao.ren
+                        mianbaoren.pages.dev
                     </h2>
                     <h1 className="text-3xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600 dark:from-indigo-400 dark:to-purple-400 mb-3 tracking-tight">
                         面包人MBTI导航
@@ -152,7 +152,7 @@ export default function Home() {
                             </svg>
                         </a>
                     </div>
-                    <p>© 2025 mianbao.ren</p>
+                    <p>© 2025 mianbaoren.pages.dev</p>
                     <p className="py-2">仅代表个人观点，仅供学习参考。</p>
                 </div>
             </div>
