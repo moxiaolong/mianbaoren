@@ -1,7 +1,7 @@
 # 荣格八维测试推荐
 
 ## 网页版
-[https://mianbao.ren](https://mianbao.ren)
+[https://mianbaoren.pages.dev](https://mianbaoren.pages.dev)
 
 ## 推荐网站
 
